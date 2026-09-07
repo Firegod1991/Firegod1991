@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:660000&height=190&section=header&text=FIREGOD&fontSize=78&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=OPEN%20SOURCE%20INTELLIGENCE%20%7C%20CYBERSECURITY%20%7C%20ANALYSIS&descSize=16&descAlignY=57"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=190&section=header&text=FIREGOD&fontSize=78&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=OPEN%20SOURCE%20INTELLIGENCE%20%7C%20CYBERSECURITY%20%7C%20ANALYSIS&descSize=16&descAlignY=57"/>
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-@fir3g0d91-CC0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fir3g0d91/)
+[![Instagram](https://img.shields.io/badge/Instagram-@fir3g0d91-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fir3g0d91/)
 [![GitHub](https://img.shields.io/badge/GitHub-Firegod1991-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Firegod1991)
 
 </div>
@@ -23,7 +23,7 @@ OPERATIONS  : Headquarters-Level Support
 MISSION     : Defensive, Educational, and Analytical Use of Public Information
 ```
 
-<span style="color:#660000">CASE NOTE:</span> This profile reflects documented experience, education, and developing capabilities. It does not represent government affiliation, current government employment, or official agency endorsement.
+**CASE NOTE:** This profile reflects documented experience, education, and developing capabilities. It does not represent government affiliation, current government employment, or official agency endorsement.
 
 ---
 
@@ -71,17 +71,17 @@ The objective is not to produce more information. It is to produce information t
 <div align="center">
 
 ![OSINT](https://img.shields.io/badge/OSINT-000000?style=for-the-badge)
-![Cyber Threat Intelligence](https://img.shields.io/badge/CYBER_THREAT_INTELLIGENCE-CC0000?style=for-the-badge)
+![Cyber Threat Intelligence](https://img.shields.io/badge/CYBER_THREAT_INTELLIGENCE-000000?style=for-the-badge)
 ![Digital Investigations](https://img.shields.io/badge/DIGITAL_INVESTIGATIONS-000000?style=for-the-badge)
-![Network Analysis](https://img.shields.io/badge/NETWORK_ANALYSIS-CC0000?style=for-the-badge)
+![Network Analysis](https://img.shields.io/badge/NETWORK_ANALYSIS-000000?style=for-the-badge)
 ![Source Verification](https://img.shields.io/badge/SOURCE_VERIFICATION-000000?style=for-the-badge)
-![Geolocation](https://img.shields.io/badge/GEOLOCATION-CC0000?style=for-the-badge)
+![Geolocation](https://img.shields.io/badge/GEOLOCATION-000000?style=for-the-badge)
 ![Threat Actor Research](https://img.shields.io/badge/THREAT_ACTOR_RESEARCH-000000?style=for-the-badge)
-![Intelligence Analysis](https://img.shields.io/badge/INTELLIGENCE_ANALYSIS-CC0000?style=for-the-badge)
+![Intelligence Analysis](https://img.shields.io/badge/INTELLIGENCE_ANALYSIS-000000?style=for-the-badge)
 ![Report Writing](https://img.shields.io/badge/REPORT_WRITING-000000?style=for-the-badge)
-![Networking](https://img.shields.io/badge/NETWORKING-CC0000?style=for-the-badge)
+![Networking](https://img.shields.io/badge/NETWORKING-000000?style=for-the-badge)
 ![Cloud Security](https://img.shields.io/badge/CLOUD_SECURITY-000000?style=for-the-badge)
-![Ethical Hacking](https://img.shields.io/badge/ETHICAL_HACKING-CC0000?style=for-the-badge)
+![Ethical Hacking](https://img.shields.io/badge/ETHICAL_HACKING-000000?style=for-the-badge)
 ![Risk Management](https://img.shields.io/badge/RISK_MANAGEMENT-000000?style=for-the-badge)
 
 </div>
@@ -115,4 +115,3 @@ All published content is based on publicly available information and is intended
 |  the honesty of its uncertainty."                            |
 +--------------------------------------------------------------+
 ```
-
