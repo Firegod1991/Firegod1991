@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![My GitHub year as a turning galaxy: a year ago in the core, today on the rim, every star a day I shipped](https://raw.githubusercontent.com/Firegod1991/contribution-galaxy/main/dist/galaxy.svg)](https://github.com/Firegod1991/contribution-galaxy)
+[![A snake crawling my contribution grid, eating every square I lit](https://raw.githubusercontent.com/Firegod1991/contribution-galaxy/main/dist/snake.svg)](https://github.com/Firegod1991/contribution-galaxy)
 
 </div>
 
