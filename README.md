@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![A snake crawling my contribution grid, eating every square I lit](https://raw.githubusercontent.com/Firegod1991/contribution-galaxy/main/dist/snake.svg)](https://github.com/Firegod1991/contribution-galaxy)
+[![A burning comet flying my contribution grid through deep space, swallowing every square I lit](https://raw.githubusercontent.com/Firegod1991/contribution-galaxy/main/dist/comet.svg)](https://github.com/Firegod1991/contribution-galaxy)
 
 </div>
 
